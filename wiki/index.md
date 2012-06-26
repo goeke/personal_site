@@ -2,7 +2,7 @@
 
 ![Me](/convertible.jpg)
 
-I hail from Harvey Mudd College ('11) and I'm currently a software engineer 
+I hail from Harvey Mudd College ('11) and I'm currently a software engineer
 at [Yelp](http://www.yelp.com).
 
 View my [resume](/resume.pdf "Me").
