@@ -12,5 +12,6 @@ def deploy():
 		sudo('git fetch origin')
 		sudo('git checkout origin/master')
 		sudo('git reset --hard HEAD')
+		sudo('markdoc build')
 
 	sudo('apache2ctl restart')
