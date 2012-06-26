@@ -1,4 +1,4 @@
-# Hi! I'm David Huie.
+# Hi! I'm David (the chump) Huie.
 
 ![Me](/convertible.jpg)
 loawl
